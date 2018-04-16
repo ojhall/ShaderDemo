@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/ShaderDemo/Scenes/StartScene.unity
+    guid: ced4fe09528fc7c42bc8f5d1efb20c22
+  - enabled: 1
+    path: Assets/ShaderDemo/Scenes/SlightlyToTheLeftScene.unity
+    guid: 0e1f4f5d7f8a3f4428b1f03af543a712
+  - enabled: 1
+    path: Assets/ShaderDemo/Scenes/OscillatingScene.unity
+    guid: a36c60516bae64d4d8803f1e520ee8fe
+  - enabled: 1
+    path: Assets/ShaderDemo/Scenes/GentleWobbleScene.unity
+    guid: d9ccee98bc6d49747b1a1d066735fdc9
+  - enabled: 1
+    path: Assets/ShaderDemo/Scenes/DoYouEvenLiftScene.unity
+    guid: 163063eab1e4bf648a5ba0b9d67e7bd7
+  - enabled: 1
+    path: Assets/ShaderDemo/Scenes/HorrifyingWobbleScene.unity
+    guid: e2e15b1b1b1771d4482067eaaff30d60
+  - enabled: 1
+    path: Assets/ShaderDemo/Scenes/InvertColourScene.unity
+    guid: 0397a4b79a0000a4b8a731a88dfee507
+  - enabled: 1
+    path: Assets/ShaderDemo/Scenes/WireframeScene.unity
+    guid: bd2ab9a181ec69f488b25ad084e000a7
